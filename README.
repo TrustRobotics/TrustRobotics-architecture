@@ -1,0 +1,11 @@
+# Trust Robotics Architecture
+
+**Version:** 0.1 Draft
+
+The Trust Robotics Architecture defines a reference computing architecture for Physical AI and humanoid robotics.
+
+Rather than focusing on individual robot implementations, the Trust Robotics Architecture defines the fundamental operating-system abstractions, runtime services, constitutional governance, execution control, and developer interfaces needed for the next generation of autonomous robots.
+
+---
+
+## Architecture Stack
